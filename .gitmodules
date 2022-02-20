@@ -4,3 +4,9 @@
 [submodule "learn-slstr-test"]
 	path = learn-slstr-test
 	url = https://gitlab.com/benloveday/learn-slstr-test.git
+[submodule "learn-slstr"]
+	path = learn-slstr
+	url = https://wekeo@github.com/wekeo/learn-slstr.git
+[submodule "learn-olci"]
+	path = learn-olci
+	url = https://wekeo@github.com/wekeo/learn-olci.git
