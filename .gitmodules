@@ -1,0 +1,6 @@
+[submodule "learn-olci-test"]
+	path = learn-olci-test
+	url = https://gitlab.com/benloveday/learn-olci-test.git
+[submodule "learn-slstr-test"]
+	path = learn-slstr-test
+	url = https://gitlab.com/benloveday/learn-slstr-test.git
