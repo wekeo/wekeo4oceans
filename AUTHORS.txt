@@ -1,0 +1,17 @@
+# Copyright holder
+EUMETSAT
+ 
+# List of development authors
+Ben Loveday (Innoflair UG)
+Hayley Evers-King (EUMETSAT)
+
+# List of contributory authors
+Aida Alvera-Azcarate (GHER)
+Vittorio Brando (CNR)
+Vinca Rosmorduc (CLS)
+Ana Ruescas (Brockmann Consult)
+Lauren Biermann (PML)
+Ollie Clements (PML)
+
+# Support
+For all queries on this software package, please contact ops@eumetsat.int

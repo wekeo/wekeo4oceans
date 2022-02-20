@@ -1,0 +1,16 @@
+# Component information
+name: wekeo4oceans
+description: Compendium of training content associated Copernicus marine products.
+copyright: 2022 WEKEO PARTERS (EUMETSAT/MIO/ECMWF/EEA)
+license_spdx: MIT
+date: 20-02-2022
+ 
+# Package IPR documentation
+license_text_file: LICENCE.txt
+ 
+# File(s) associated to this component
+
+about_resource: wekeo4oceans.ABOUT
+about_resource: environment.yml
+about_resource: README.md
+about_resource: AUTHORS.txt

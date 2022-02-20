@@ -1,0 +1,23 @@
+name: wekeo4oceans
+channels:
+  - conda-forge
+  - cmts
+  - eumetsat
+dependencies:
+  - conda-forge::python=3.8
+  - conda-forge::notebook
+  - conda-forge::xarray
+  - conda-forge::netcdf4
+  - conda-forge::shapely
+  - conda-forge::matplotlib
+  - conda-forge::cartopy
+  - conda-forge::jupyter_contrib_nbextensions
+  - conda-forge::ipywidgets
+  - conda-forge::scikit-image
+  - conda-forge::plotly
+  - conda-forge::bokeh
+  - conda-forge::ipykernel
+  - conda-forge::cmocean
+  - cmts::hda
+  - cmts::eumartools
+  - eumetsat::eumdac
