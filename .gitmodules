@@ -1,0 +1,3 @@
+[submodule "learn-olci"]
+	path = learn-olci
+	url = https://gitlab.eumetsat.int/eo-lab-usc-open/ocean/sensors/learn-olci.git
