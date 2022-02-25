@@ -1,6 +1,3 @@
-[submodule "learn-slstr"]
-	path = learn-slstr
-	url = https://wekeo@github.com/wekeo/learn-slstr.git
 [submodule "learn-olci"]
 	path = learn-olci
 	url = https://wekeo@github.com/wekeo/learn-olci.git
