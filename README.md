@@ -11,18 +11,16 @@ a high-level of interactive learning, as code, text description and visualisatio
 is combined in one place.
 
 ## Copernicus Data
-The notebooks contained within the repository feature data from"
 
-FILL IN
+The notebooks contained within the repository feature data from the OLCI, SLSTR and SRAL sensors aboard the Sentinel-3 satellite.
 
 
 ## Where to find what you need
+
 The content of this repository is suitable for those completely new to WEkEO, Python, Copernicus data
 and hosted processing environments.
 
 Below is a summary of the files provided, with recommendations on where to start:
-
-FILL IN
 
 ## How to use this material
 
