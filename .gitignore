@@ -31,13 +31,3 @@ wheels/
 
 # OSx junk
 *DS_Store*
-
-# simlinks
-frameworks
-working-with-python
-
-# Repo specific
-1_OLCI_introductory/products/
-1_OLCI_introductory/*.png
-2_OLCI_advanced/products/
-2_OLCI_advanced/*.png
