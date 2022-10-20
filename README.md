@@ -37,7 +37,7 @@ You can also use this code on your own computer/Jupyter Lab server, however you 
 
 ### Recommended python set up
 
-This repository supports Python 3.7. We highly recommend that users working on their own systems install the appropriate Anaconda distribution for their operating system. Here is a link to the [Anaconda distribution of Python 3.7](https://www.anaconda.com/products/individual).
+This repository supports Python 3.9. We highly recommend that users working on their own systems install the appropriate Anaconda distribution for their operating system. Here is a link to the [Anaconda distribution of Python 3.9](https://www.anaconda.com/products/individual).
 
 ### Python environments
 
