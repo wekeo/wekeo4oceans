@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - cmts
   - eumetsat
+  - coecms
 dependencies:
   - conda-forge::python=3.8
   - conda-forge::notebook
@@ -18,6 +19,12 @@ dependencies:
   - conda-forge::bokeh
   - conda-forge::ipykernel
   - conda-forge::cmocean
-  - cmts::hda
+  - conda-forge::opencv
+  - conda-forge::requests
+  - conda-forge::beautifulsoup4
+  - conda-forge::owslib
+  - cmts::hda=1.1
   - cmts::eumartools
   - eumetsat::eumdac
+  - coecms::xmhw=0.8.0
+
