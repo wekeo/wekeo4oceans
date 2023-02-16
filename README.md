@@ -1,6 +1,6 @@
 # Welcome to WEkEO4Oceans
 
-**wekeo4oceans** is a repository of Python based tools to introduce you to atmospheric data on the [WEkEO DIAS (Data Information
+**wekeo4oceans** is a repository of Python based tools to introduce you to marine/ocean data on the [WEkEO DIAS (Data Information
 and Access System)](https://wekeo.eu/) and its Jupyter Lab. The content includes notebooks explaining WEkEO and the Jupyter Lab environment and
 how to use the Harmonised Data Access (HDA) API that is fundamental to WEkEO. Within this repository are 
 tutorials and case studies, using data from the Copernicus Programme that are available on WEkEO and written by expert trainers
@@ -28,7 +28,7 @@ If you are on GitHub/Lab you can visit www.wekeo.eu, register for an account and
 
 If you are currently on the WEkEO JupyterLab you're already in the right place and can start. To clone this repository in to the WEkEO JupyterLab environment open a terminal in the WEkEO JupyterLab, type 
   > `cd work`<br>
-  > `git clone --recurse-submodules --remote-submodules https://github.com/wekeo/wekeo4oceans.git`<br> 
+  > `git clone --recurse-submodules https://github.com/wekeo/wekeo4oceans.git`<br> 
  
  This will create a clone of this repository of notebooks in the work directory on your Jupyterlab instance. You can use the same command to clone any external repository you like.
 
@@ -42,8 +42,8 @@ This repository supports Python 3.9. We highly recommend that users working on t
 ### Python environments
 
 Python allows users to create specific environments that suit their applications. 
-This tutorials included in this collection require a number of non-standard 
-packages - by which we refer to those no included by default in Anaconda. These are included in the JupyterLab environment but you may need to install them for local working.
+The tutorials included in this collection require a number of non-standard 
+packages - by which we refer to those no included by default in Anaconda. These are included in the JupyterLab environment but you may need to install them for local working. You can create the environment locally using the supplied environment.yml file.
 
 
 
