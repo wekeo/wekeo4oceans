@@ -10,3 +10,6 @@
 [submodule "learn-s6"]
 	path = learn-s6
 	url = https://github.com/wekeo/learn-s6.git
+[submodule "ocean-case-studies"]
+	path = ocean-case-studies
+	url = https://github.com/wekeo/ocean-case-studies.git
