@@ -1,6 +1,3 @@
-[submodule "ocean-case-studies"]
-	path = ocean-case-studies
-	url = https://github.com/wekeo/ocean-case-studies.git
 [submodule "learn-olci"]
 	path = learn-olci
 	url = https://github.com/wekeo/learn-olci.git
