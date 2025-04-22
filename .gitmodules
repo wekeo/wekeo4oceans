@@ -13,3 +13,6 @@
 [submodule "ocean-case-studies"]
 	path = ocean-case-studies
 	url = https://github.com/wekeo/ocean-case-studies.git
+[submodule "ocean-colour-applications"]
+	path = ocean-colour-applications
+	url = https://github.com/wekeo/ocean-colour-applications.git
