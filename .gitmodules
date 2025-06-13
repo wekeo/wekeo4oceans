@@ -16,3 +16,15 @@
 [submodule "ocean-colour-applications"]
 	path = ocean-colour-applications
 	url = https://github.com/wekeo/ocean-colour-applications.git
+[submodule "learn-osi-saf-wind"]
+	path = learn-osi-saf-wind
+	url = https://github.com/wekeo/learn-osi-saf-wind.git
+[submodule "learn-osi-saf-sea-ice"]
+	path = learn-osi-saf-sea-ice
+	url = https://github.com/wekeo/learn-osi-saf-sea-ice.git
+[submodule "sea-surface-temperature-applications"]
+	path = sea-surface-temperature-applications
+	url = https://github.com/wekeo/sea-surface-temperature-applications.git
+[submodule "altimetry-applications"]
+	path = altimetry-applications
+	url = https://github.com/wekeo/altimetry-applications.git
