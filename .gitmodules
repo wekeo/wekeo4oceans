@@ -25,3 +25,6 @@
 [submodule "altimetry-applications"]
 	path = altimetry-applications
 	url = https://github.com/wekeo/altimetry-applications.git
+[submodule "ocean-case-studies"]
+	path = ocean-case-studies
+	url = https://github.com/wekeo/ocean-case-studies.git
